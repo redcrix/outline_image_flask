@@ -1,6 +1,6 @@
 # outline_image_flask
 <h3>To make an outline image from a picture . You simple have to crop the desired picture with mouse. 
-All the images are to be saved on "images" folder.
+All the images will be save on "images" folder.
 
 
 
