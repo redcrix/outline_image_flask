@@ -75,6 +75,7 @@ def outline():
         # close all open windows
 
     cv2.destroyAllWindows()
+    return json.dumps({"crop_pic": time_str + 'outlined.jpg'})
 
 
 if __name__ == "__main__":
