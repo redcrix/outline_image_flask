@@ -11,3 +11,4 @@ This project is based on:-
 1. Python 3.6+
 2. OpenCV 
 3. Flask
+4. HTML/CSS
